@@ -29,4 +29,5 @@ brew install --cask baiducloud
 git clone https://github.com/leejongyoung/baidu-cloud-korean.git
 cd baidu-cloud-korean
 mv * /Applications/百度云同步盘.app/Contents/Resources
+touch /Applications/百度云同步盘.app
 ```
